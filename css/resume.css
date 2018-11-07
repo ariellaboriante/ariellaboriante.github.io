@@ -77,8 +77,9 @@ p.lead {
     background-color: #EDB5BF;
 }
 
-.project-links {
-    display: inline !important;
+.project-icons a {
+    background-color: #343A40; !important;
+    vertical-align: middle;
 }
 
 .dev-icons {
