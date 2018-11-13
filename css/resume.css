@@ -260,3 +260,15 @@ a.grow-icons:focus {
     max-height: 30rem;
     padding-left: 3rem;
 }
+
+.logo {
+    height: 5rem;
+    width: 15rem;
+    margin-left: 5rem !important;
+}
+
+.tdsb-logo {
+    height: 5rem;
+    width: 6rem;
+    margin-left: 5rem !important;
+}
