@@ -268,7 +268,8 @@ a.grow-icons:focus {
 
 [data-profile-title]:after {
     content: attr(data-profile-title);
-    color: #EDB5BF;
+    /*color: #EDB5BF;*/
+    color: rgba(255,255,255,.5);
     font-size: 50%;
     letter-spacing: 2px;
     text-align: center;
